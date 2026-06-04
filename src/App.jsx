@@ -73,7 +73,22 @@ const SAMPLE_LEAD_DATA = [
   { "Company Name": "Soulful Yoga Studio", "Contact Person": "Namrata Pai", "Designation": "Owner", "Email": "namrata@soulfulyoga.in", "Phone": "+91-98765-03456", "City": "Pune", "LinkedIn": "", "Source": "" }, // Clean 3
   { "Company Name": "Wellness Gifting Solutions", "Contact Person": "Ajay Khurana", "Designation": "MD", "Email": "ajay@wellnessgifting.in", "Phone": "+91-98765-04567", "City": "Delhi", "LinkedIn": "", "Source": "" }, // Clean 4
   { "Company Name": "Sacred Herbs Retail", "Contact Person": "Neha Kapoor", "Designation": "Purchase Manager", "Email": "neha@sacredherbs.in", "Phone": "+91-98765-05678", "City": "Bangalore", "LinkedIn": "", "Source": "" }, // Clean 5
-  { "Company Name": "Health & Bloom Pharma", "Contact Person": "Suresh Nair", "Designation": "Founder", "Email": "suresh@healthbloom.in", "Phone": "+91-98765-06789", "City": "Kochi", "LinkedIn": "", "Source": "" } // Clean 6
+  { "Company Name": "Health & Bloom Pharma", "Contact Person": "Suresh Nair", "Designation": "Founder", "Email": "suresh@healthbloom.in", "Phone": "+91-98765-06789", "City": "Kochi", "LinkedIn": "", "Source": "" }, // Clean 6
+  { "Company Name": "GreenField Organic Retailers", "Contact Person": "Meera Sen", "Designation": "Category Manager", "Email": "meera@greenfieldorganic.in", "Phone": "+91-98765-07890", "City": "Bangalore", "LinkedIn": "", "Source": "" }, // Clean 7
+  { "Company Name": "Ayush Wellness Hub", "Contact Person": "Vijay Kumar", "Designation": "Founder", "Email": "vijay@ayushwellness.in", "Phone": "+91-98765-08901", "City": "Pune", "LinkedIn": "", "Source": "" }, // Clean 8
+  { "Company Name": "Divine Aura Spirituals", "Contact Person": "Rajesh Patel", "Designation": "MD", "Email": "rajesh@divineaura.co.in", "Phone": "+91-98765-09012", "City": "Ahmedabad", "LinkedIn": "", "Source": "" }, // Clean 9
+  { "Company Name": "Organic Farms India", "Contact Person": "Sunita Reddy", "Designation": "Director", "Email": "sunita@organicfarms.in", "Phone": "+91-98765-10123", "City": "Hyderabad", "LinkedIn": "", "Source": "" }, // Clean 10
+  { "Company Name": "Shanti Yoga Retreats", "Contact Person": "Anjali Sharma", "Designation": "Owner", "Email": "anjali@shantiyoga.in", "Phone": "+91-98765-11234", "City": "Jaipur", "LinkedIn": "", "Source": "" }, // Clean 11
+  { "Company Name": "Nature Care Pharma", "Contact Person": "Harish Rao", "Designation": "Procurement Head", "Email": "harish@naturecarepharma.in", "Phone": "+91-98765-12345", "City": "Chennai", "LinkedIn": "", "Source": "" }, // Clean 12
+  { "Company Name": "Pure Herbal Cosmetics", "Contact Person": "Kavita Nair", "Designation": "Category Manager", "Email": "kavita@pureherbal.in", "Phone": "+91-98765-13456", "City": "Kochi", "LinkedIn": "", "Source": "" }, // Clean 13
+  { "Company Name": "Corporate Wellness Solutions", "Contact Person": "Sanjay Gupta", "Designation": "Wellness Buyer", "Email": "sanjay@corpwellness.in", "Phone": "+91-98765-14567", "City": "Gurgaon", "LinkedIn": "", "Source": "" }, // Clean 14
+  { "Company Name": "Isha Life Chennai Center", "Contact Person": "priya sharma", "Designation": "Purchase Manager", "Email": "priya@ishalife.com", "Phone": "+91-98765-15678", "City": "Chennai", "LinkedIn": "", "Source": "" }, // Clean 15
+  { "Company Name": "Patanjali Haridwar Depot", "Contact Person": "Ramesh Yadav", "Designation": "Category Manager", "Email": "ramesh@patanjalioutlet.in", "Phone": "+91-98765-16789", "City": "Haridwar", "LinkedIn": "", "Source": "" }, // Clean 16
+  { "Company Name": "Arogya Organic Mart", "Contact Person": "Nidhi Patel", "Owner": "Owner", "Email": "nidhi@arogyaorganic.in", "Phone": "+91-98765-17890", "City": "Ahmedabad", "LinkedIn": "", "Source": "" }, // Clean 17
+  { "Company Name": "Om Sacred Bazar", "Contact Person": "Vikram Malhotra", "Designation": "MD", "Email": "vikram@omsacred.in", "Phone": "+91-98765-18901", "City": "Jaipur", "LinkedIn": "", "Source": "" }, // Clean 18
+  { "Company Name": "Vedic Life Distributors", "Contact Person": "Amit Sen", "Designation": "Director", "Email": "amit@vediclife.co.in", "Phone": "+91-98765-19012", "City": "Kolkata", "LinkedIn": "", "Source": "" }, // Clean 19
+  { "Company Name": "Spiritual Retreat Goods", "Contact Person": "Divya Nair", "Designation": "Wellness Buyer", "Email": "divya@spiritualretreat.in", "Phone": "+91-98765-20123", "City": "Coimbatore", "LinkedIn": "", "Source": "" }, // Clean 20
+  { "Company Name": "Natural Bliss Wellness", "Contact Person": "Gopal Das", "Designation": "Purchase Manager", "Email": "gopal@naturalbliss.in", "Phone": "+91-98765-21234", "City": "Bangalore", "LinkedIn": "", "Source": "" } // Clean 21
 ];
 
 // ==========================================

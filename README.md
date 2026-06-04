@@ -18,7 +18,7 @@ This application parses raw CSV data client-side, automatically processes it aga
 
 1. **Vite + React Setup:** Configured a modern React application utilizing Tailwind CSS v4 in the [go-brics-lead-cleaner](file:///c:/Users/krish/OneDrive/Documents/New%20folder/go-brics-lead-cleaner/) subdirectory.
 2. **On-Device Data Parsing:** Integrated PapaParse client-side to handle CSV parsing and serialization securely without any external API calls or data leaking.
-3. **55-Row Sandbox Sample Data:** Integrated a built-in sandbox dataset consisting of 55 messy Indian business records containing casing errors, duplicate emails, blank fields, and inconsistent phone numbers to facilitate immediate verification.
+3. **70-Row Sandbox Sample Data:** Integrated a built-in sandbox dataset consisting of 70 messy Indian business records containing casing errors, duplicate emails, blank fields, and inconsistent phone numbers to facilitate immediate verification.
 4. **Multi-Step App Flow:**
    - **Step 1 — Upload Screen:** Drag-and-drop zone with validation constraints, supported by a sandbox loader.
    - **Step 2 — Processing Loader:** A simulated processing screen with animated indicators to enhance user experience.
@@ -56,14 +56,14 @@ The cleaning engine processes raw CSV objects sequentially through the following
 
 ## 📊 Proof of Verification (Sample Run Metrics)
 
-Running the cleaning engine on the built-in 55-row sandbox lead dataset produces the following results:
+Running the cleaning engine on the built-in 70-row sandbox lead dataset produces the following results:
 
-- **Total Rows Ingested:** 55
+- **Total Rows Ingested:** 70
 - **Duplicates Removed:** 9 (5 exact duplicates + 4 email duplicates)
 - **Incomplete Rows Removed:** 2 (blank company names)
 - **Empty Fields Fixed or Flagged:** 15
-- **Clean Output Records:** 44
-- **Input Data Quality Score:** 13% (indicates 87% of raw entries required sanitization on arrival)
+- **Clean Output Records:** 59
+- **Input Data Quality Score:** 26% (indicates 74% of raw entries required sanitization on arrival)
 
 ### Output CSV Format
 The exported file contains all original headers plus the new `QC_Status` tracking column. Excluded records (duplicates and blank companies) are filtered out, while flagged items remain in the output to enable sales representatives to perform manual enrichment.
